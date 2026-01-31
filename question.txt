@@ -1,0 +1,46 @@
+1 - Order trends over time
+How many distinct users placed orders worth more than ₹1000 in total (sum of all their orders)?
+Which restaurant has the highest average order value but less than 20 total orders?
+How many orders were placed for restaurants with rating ≥ 4.5?
+How many orders were placed in the top revenue city among Gold members only?
+
+
+
+2 - User behavior patterns
+How many distinct users placed at least one order?
+
+
+
+3 - City-wise and cuisine-wise performance
+Which cuisine has the highest average order value across all orders?
+
+
+
+4 - Membership impact (Gold vs Regular)
+Among Gold members, which city has the highest average order value?
+What percentage of total orders were placed by Gold members? (Rounded to nearest integer)
+Which combination contributes the highest revenue?
+How many total orders were placed by users with Gold membership?
+What is the average order value (rounded to 2 decimals) for Gold members?
+
+
+
+5 - Revenue distribution and seasonality
+
+Which city has the highest total revenue (total_amount) from Gold members?  
+Which restaurant rating range generated the highest total revenue?
+Which cuisine has the lowest number of distinct restaurants but still contributes significant revenue?
+During which quarter of the year is the total revenue highest?
+What is the total revenue (rounded to nearest integer) generated from orders placed in Hyderabad city?
+
+
+
+
+
+
+
+
+
+
+
+
